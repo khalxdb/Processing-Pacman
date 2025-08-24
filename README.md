@@ -45,4 +45,4 @@ PacMan.pde # Main sketch (all game logic, rendering, input)
 
 ## Screenshot / Demo
 
-<img src="assets/PacManGIF.gif" alt="PacMan Demo" width="500"/>
+![PacMan Demo](assets/PacManGIF.gif)
