@@ -44,4 +44,5 @@ PacMan.pde # Main sketch (all game logic, rendering, input)
 - High-score tracking.
 
 ## Screenshot / Demo
-_Add a GIF or screenshot here (e.g., `demo.gif`)._
+
+<img src="assets/PacManGIF.gif" alt="PacMan Demo" width="500"/>
