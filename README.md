@@ -45,4 +45,4 @@ PacMan.pde # Main sketch (all game logic, rendering, input)
 
 ## Screenshot / Demo
 
-![PacMan Demo](assets/PacManGIF.gif)
+![PacMan Demo](assets/PacmanGIF.gif)
